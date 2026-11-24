@@ -23,7 +23,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-     <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f71229.gif" width="100%" alt="Tech Setup" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Code Typing" />
     </td>
   </tr>
 </table>
