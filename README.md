@@ -23,7 +23,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="75%" alt="Technologist" />
+     <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f71229.gif" width="100%" alt="Tech Setup" />
     </td>
   </tr>
 </table>
