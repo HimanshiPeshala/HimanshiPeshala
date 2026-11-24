@@ -23,7 +23,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xqZ3R6b3B5eG5xZ3R6b3B5eG5xZ3R6b3B5eG5xZ3R6b3B5/L1R1tv61svvIW1A6OQ/giphy.gif" width="100%" alt="Coding animation" />
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding GIF" />
     </td>
   </tr>
 </table>
