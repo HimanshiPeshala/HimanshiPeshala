@@ -23,7 +23,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-     <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/developer-coding.gif" width="100%" alt="Developer GIF" />
+     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="75%" alt="Technologist" />
     </td>
   </tr>
 </table>
