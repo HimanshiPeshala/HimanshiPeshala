@@ -6,24 +6,24 @@
 <h4 align="center">Passionate ICT Student | Exploring the World of Technology</h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HimanshiPeshala&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <hr/>
 
 <table>
   <tr>
-    <td width="55%">
+    <td width="60%">
       <ul>
         <li>🌱 I’m currently pursuing an <b>NVQ Level 5 Diploma in ICT</b></li>
         <li>💻 I’m learning <b>Java, PHP, Web Development & Database Design</b></li>
         <li>💬 Ask me about <b>HTML, CSS, Java, MySQL & Graphic Design</b></li>
-        <li>📫 How to reach me: <a href="mailto:krishanthik279@gmail.com">himanshii.peshala@gmail.com</a></li>
+        <li>📫 How to reach me: <a href="mailto:himanshii.peshala@gmail.com">himanshii.peshala@gmail.com</a></li>
         <li>⚡ Fun fact: <b>I love turning ideas into code and creative designs!</b></li>
       </ul>
     </td>
-    <td width="45%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f71229.gif" width="100%" />
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xqZ3R6b3B5eG5xZ3R6b3B5eG5xZ3R6b3B5eG5xZ3R6b3B5/L1R1tv61svvIW1A6OQ/giphy.gif" width="100%" alt="Coding animation" />
     </td>
   </tr>
 </table>
@@ -40,7 +40,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshiPeshala&theme=radical&hide_border=true" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshiPeshalaE&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshiPeshala&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
