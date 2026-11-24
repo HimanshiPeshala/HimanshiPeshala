@@ -23,7 +23,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Code Typing" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=header" width="100%" alt="Wave Banner" />
     </td>
   </tr>
 </table>
